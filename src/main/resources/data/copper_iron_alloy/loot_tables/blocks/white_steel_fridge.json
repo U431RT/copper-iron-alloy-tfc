@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:block",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{ "type": "minecraft:item", "name": "copper_iron_alloy:white_steel_fridge" }],
+    "conditions": [{ "condition": "minecraft:survives_explosion" }]
+  }]
+}

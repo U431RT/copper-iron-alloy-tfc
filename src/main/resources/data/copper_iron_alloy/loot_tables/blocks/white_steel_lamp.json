@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:block",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "copper_iron_alloy:white_steel_lamp",
+      "functions": [{ "function": "tfc:copy_fluid" }]
+    }],
+    "conditions": [{ "condition": "minecraft:survives_explosion" }]
+  }]
+}

@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:brittle_white_steel_fridge" },
+  "heat_capacity": 27.52,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

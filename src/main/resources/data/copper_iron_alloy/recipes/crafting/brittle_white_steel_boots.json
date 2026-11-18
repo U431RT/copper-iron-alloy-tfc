@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "copper_iron_alloy:brittle_white_steel_sheet"
+    }
+  },
+  "result": {
+    "item": "copper_iron_alloy:brittle_white_steel_boots"
+  }
+}

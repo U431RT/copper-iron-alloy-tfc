@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,open=false": { "model": "copper_iron_alloy:block/white_steel_fridge" },
+    "facing=south,open=false": { "model": "copper_iron_alloy:block/white_steel_fridge", "y": 180 },
+    "facing=west,open=false": { "model": "copper_iron_alloy:block/white_steel_fridge", "y": 270 },
+    "facing=east,open=false": { "model": "copper_iron_alloy:block/white_steel_fridge", "y": 90 },
+    "facing=north,open=true": { "model": "copper_iron_alloy:block/white_steel_fridge_open" },
+    "facing=south,open=true": { "model": "copper_iron_alloy:block/white_steel_fridge_open", "y": 180 },
+    "facing=west,open=true": { "model": "copper_iron_alloy:block/white_steel_fridge_open", "y": 270 },
+    "facing=east,open=true": { "model": "copper_iron_alloy:block/white_steel_fridge_open", "y": 90 }
+  }
+}

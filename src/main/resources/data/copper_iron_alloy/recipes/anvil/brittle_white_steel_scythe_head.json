@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/brittle_white_steel"
+  },
+  "result": {
+    "item": "copper_iron_alloy:brittle_white_steel_scythe_head"
+  },
+  "tier": 5,
+  "rules": [
+    "bend_last",
+    "draw_second_last",
+    "draw_third_last"
+  ],
+  "apply_forging_bonus": true
+}

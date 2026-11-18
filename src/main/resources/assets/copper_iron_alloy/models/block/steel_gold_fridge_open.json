@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "copper_iron_alloy:block/steel_gold_fridge_top",
+    "front": "copper_iron_alloy:block/steel_gold_fridge_front_open",
+    "side": "copper_iron_alloy:block/steel_gold_fridge_side",
+    "particle": "copper_iron_alloy:block/steel_gold_fridge_side"
+  }
+}

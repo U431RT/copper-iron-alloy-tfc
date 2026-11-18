@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/weak_blue_steel"
+  },
+  "result": {
+    "item": "copper_iron_alloy:brittle_blue_steel_powder",
+    "count": 2
+  }
+}

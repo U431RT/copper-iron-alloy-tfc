@@ -1,0 +1,8 @@
+{
+  "type": "tfc:anvil",
+  "input": { "item": "copper_iron_alloy:steel_gold_double_sheet" },
+  "result": { "item": "copper_iron_alloy:steel_gold_kettle" },
+  "tier": 4,
+  "rules": ["bend_last", "bend_second_last", "bend_third_last"],
+  "apply_forging_bonus": false
+}

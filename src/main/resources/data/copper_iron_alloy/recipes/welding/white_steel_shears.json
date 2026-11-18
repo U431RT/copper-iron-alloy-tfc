@@ -1,0 +1,8 @@
+{
+  "type": "tfc:welding",
+  "first_input": { "item": "copper_iron_alloy:white_steel_knife_head" },
+  "second_input": { "item": "copper_iron_alloy:white_steel_knife_head" },
+  "tier": 6,
+  "combine_forging_bonus": true,
+  "result": { "item": "copper_iron_alloy:white_steel_shears" }
+}

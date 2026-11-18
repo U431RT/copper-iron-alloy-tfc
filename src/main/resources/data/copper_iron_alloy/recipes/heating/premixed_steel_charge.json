@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "copper_iron_alloy:premixed_steel_charge"
+  },
+  "result_fluid": {
+    "fluid": "copper_iron_alloy:metal/brittle_white_steel",
+    "amount": 100
+  },
+  "temperature": 1500
+}

@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:white_steel_fridge" },
+  "heat_capacity": 27.52,
+  "forging_temperature": 960,
+  "welding_temperature": 1280
+}

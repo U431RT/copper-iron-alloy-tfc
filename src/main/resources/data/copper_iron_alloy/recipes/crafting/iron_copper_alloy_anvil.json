@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["DDD", " D ", "DDD"],
+  "key": { "D": { "item": "copper_iron_alloy:iron_copper_alloy_double_ingot" } },
+  "result": { "item": "copper_iron_alloy:iron_copper_alloy_anvil" }
+}

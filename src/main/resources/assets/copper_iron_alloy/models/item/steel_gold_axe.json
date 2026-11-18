@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "copper_iron_alloy:item/steel_gold_axe"
+  }
+}

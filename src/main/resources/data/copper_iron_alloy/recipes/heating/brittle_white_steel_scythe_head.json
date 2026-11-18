@@ -1,0 +1,6 @@
+{
+  "type": "tfc:heating",
+  "ingredient": { "item": "copper_iron_alloy:brittle_white_steel_scythe_head" },
+  "result_fluid": { "fluid": "copper_iron_alloy:metal/brittle_white_steel", "amount": 100 },
+  "temperature": 1500
+}

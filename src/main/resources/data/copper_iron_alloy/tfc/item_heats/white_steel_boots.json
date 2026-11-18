@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:white_steel_boots" },
+  "heat_capacity": 6.88,
+  "forging_temperature": 960,
+  "welding_temperature": 1280
+}

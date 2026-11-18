@@ -1,0 +1,7 @@
+{
+  "type": "tfc:heating",
+  "ingredient": { "item": "copper_iron_alloy:white_steel_shears" },
+  "result_fluid": { "fluid": "copper_iron_alloy:metal/white_steel", "amount": 200 },
+  "use_durability": true,
+  "temperature": 1600
+}

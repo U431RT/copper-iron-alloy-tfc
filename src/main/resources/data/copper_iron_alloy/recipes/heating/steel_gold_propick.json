@@ -1,0 +1,7 @@
+{
+  "type": "tfc:heating",
+  "ingredient": { "item": "copper_iron_alloy:steel_gold_propick" },
+  "result_fluid": { "fluid": "copper_iron_alloy:metal/steel_gold", "amount": 100 },
+  "use_durability": true,
+  "temperature": 1450
+}

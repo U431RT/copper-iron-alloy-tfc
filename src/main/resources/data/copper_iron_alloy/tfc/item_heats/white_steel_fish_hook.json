@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:white_steel_fish_hook" },
+  "heat_capacity": 1.72,
+  "forging_temperature": 960,
+  "welding_temperature": 1280
+}

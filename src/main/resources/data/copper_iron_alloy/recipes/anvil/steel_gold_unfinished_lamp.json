@@ -1,0 +1,7 @@
+{
+  "type": "tfc:anvil",
+  "input": { "tag": "forge:ingots/steel_gold" },
+  "result": { "item": "copper_iron_alloy:steel_gold_unfinished_lamp" },
+  "tier": 4,
+  "rules": ["bend_last", "bend_second_last", "draw_third_last"]
+}

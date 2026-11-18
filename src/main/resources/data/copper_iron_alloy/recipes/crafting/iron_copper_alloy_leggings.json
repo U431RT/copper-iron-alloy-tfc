@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "copper_iron_alloy:iron_copper_alloy_sheet"
+    }
+  },
+  "result": {
+    "item": "copper_iron_alloy:iron_copper_alloy_leggings"
+  }
+}

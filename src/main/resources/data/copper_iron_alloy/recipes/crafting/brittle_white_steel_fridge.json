@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS", "SRS", "SSS"],
+  "key": {
+    "S": { "item": "copper_iron_alloy:brittle_white_steel_double_sheet" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": { "item": "copper_iron_alloy:brittle_white_steel_fridge" }
+}

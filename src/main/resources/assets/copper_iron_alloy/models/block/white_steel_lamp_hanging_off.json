@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/lamp_hanging",
+  "textures": {
+    "metal": "copper_iron_alloy:block/metal/smooth/white_steel",
+    "chain": "copper_iron_alloy:block/metal/chain/white_steel",
+    "lamp": "tfc:block/lamp_off"
+  }
+}

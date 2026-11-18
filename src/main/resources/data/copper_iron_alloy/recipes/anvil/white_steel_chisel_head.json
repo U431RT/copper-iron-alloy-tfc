@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/white_steel"
+  },
+  "result": {
+    "item": "copper_iron_alloy:white_steel_chisel_head"
+  },
+  "tier": 6,
+  "rules": [
+    "upset_last",
+    "draw_second_last",
+    "draw_third_last"
+  ],
+  "apply_forging_bonus": true
+}

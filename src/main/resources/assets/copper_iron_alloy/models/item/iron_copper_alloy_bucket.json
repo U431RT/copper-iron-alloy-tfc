@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "copper_iron_alloy:item/iron_copper_alloy_bucket"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_water" },
+    { "predicate": { "custom_model_data": 2 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_milk" },
+    { "predicate": { "custom_model_data": 3 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_lava" },
+    { "predicate": { "custom_model_data": 4 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_iron_copper_alloy" },
+    { "predicate": { "custom_model_data": 5 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_steel_gold" },
+    { "predicate": { "custom_model_data": 6 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_brittle_white_steel" },
+    { "predicate": { "custom_model_data": 7 }, "model": "copper_iron_alloy:item/iron_copper_alloy_bucket_white_steel" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:white_steel_leggings" },
+  "heat_capacity": 12.04,
+  "forging_temperature": 960,
+  "welding_temperature": 1280
+}

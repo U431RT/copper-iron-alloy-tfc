@@ -1,0 +1,7 @@
+{
+  "type": "tfc:heating",
+  "ingredient": { "item": "copper_iron_alloy:steel_gold_helmet" },
+  "result_fluid": { "fluid": "copper_iron_alloy:metal/steel_gold", "amount": 1000 },
+  "use_durability": true,
+  "temperature": 1450
+}

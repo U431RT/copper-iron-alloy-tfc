@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "copper_iron_alloy:metal/iron_copper_alloy",
+    "copper_iron_alloy:metal/flowing_iron_copper_alloy"
+  ]
+}

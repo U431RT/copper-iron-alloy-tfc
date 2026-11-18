@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copper_iron_alloy:brittle_white_steel_sheet"
+    },
+    {
+      "item": "copper_iron_alloy:brittle_white_steel_sheet"
+    }
+  ],
+  "result": {
+    "item": "copper_iron_alloy:brittle_white_steel_double_sheet"
+  }
+}

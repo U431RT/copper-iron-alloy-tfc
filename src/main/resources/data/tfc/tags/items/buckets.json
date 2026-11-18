@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "copper_iron_alloy:iron_copper_alloy_bucket",
+    "copper_iron_alloy:steel_gold_bucket"
+  ]
+}

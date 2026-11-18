@@ -1,0 +1,16 @@
+{
+  "type": "tfc:alloy",
+  "result": "copper_iron_alloy:iron_copper_alloy",
+  "contents": [
+    {
+      "metal": "tfc:copper",
+      "min": 0.75,
+      "max": 0.85
+    },
+    {
+      "metal": "tfc:cast_iron",
+      "min": 0.15,
+      "max": 0.25
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingots/white_steel"
+  },
+  "second_input": {
+    "tag": "forge:ingots/white_steel"
+  },
+  "tier": 6,
+  "result": {
+    "item": "copper_iron_alloy:white_steel_double_ingot"
+  }
+}

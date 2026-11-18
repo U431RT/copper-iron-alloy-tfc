@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/iron_copper_alloy"
+  },
+  "result": {
+    "item": "copper_iron_alloy:iron_copper_alloy_hoe_head"
+  },
+  "tier": 3,
+  "rules": [
+    "punch_last",
+    "draw_second_last",
+    "draw_third_last"
+  ],
+  "apply_forging_bonus": true
+}

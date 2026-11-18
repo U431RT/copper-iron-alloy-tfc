@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": { "all": "copper_iron_alloy:block/metal/block/steel_gold" }
+}

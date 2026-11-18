@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "copper_iron_alloy:block/brittle_white_steel_anvil"
+    },
+    "facing=south": {
+      "model": "copper_iron_alloy:block/brittle_white_steel_anvil",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "copper_iron_alloy:block/brittle_white_steel_anvil",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "copper_iron_alloy:block/brittle_white_steel_anvil",
+      "y": 90
+    }
+  }
+}

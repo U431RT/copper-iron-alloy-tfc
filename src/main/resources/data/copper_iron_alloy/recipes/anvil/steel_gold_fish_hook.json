@@ -1,0 +1,8 @@
+{
+  "type": "tfc:anvil",
+  "input": { "tag": "forge:sheets/steel_gold" },
+  "result": { "item": "copper_iron_alloy:steel_gold_fish_hook" },
+  "tier": 4,
+  "rules": ["draw_not_last", "bend_any", "hit_any"],
+  "apply_forging_bonus": true
+}

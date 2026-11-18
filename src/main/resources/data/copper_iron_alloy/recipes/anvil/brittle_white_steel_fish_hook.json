@@ -1,0 +1,8 @@
+{
+  "type": "tfc:anvil",
+  "input": { "tag": "forge:sheets/brittle_white_steel" },
+  "result": { "item": "copper_iron_alloy:brittle_white_steel_fish_hook" },
+  "tier": 5,
+  "rules": ["draw_not_last", "bend_any", "hit_any"],
+  "apply_forging_bonus": true
+}

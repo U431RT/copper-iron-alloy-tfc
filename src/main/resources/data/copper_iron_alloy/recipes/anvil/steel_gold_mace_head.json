@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/steel_gold"
+  },
+  "result": {
+    "item": "copper_iron_alloy:steel_gold_mace_head"
+  },
+  "tier": 4,
+  "rules": [
+    "upset_last",
+    "shrink_second_last",
+    "hit_third_last"
+  ],
+  "apply_forging_bonus": true
+}

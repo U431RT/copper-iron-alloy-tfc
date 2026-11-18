@@ -1,0 +1,39 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+
+[[mods]]
+modId = "copper_iron_alloy"
+version = "${file.jarVersion}"
+displayName = "铜铁合金 · 群峦版 / Copper-Iron Alloy (TFC)"
+description = '''
+群峦传说专用版本：铁铜合金、钢金、白钢全部走群峦的液态金属、浇筑、锻造与铁砧体系。
+'''
+
+[[dependencies.copper_iron_alloy]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.copper_iron_alloy]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.copper_iron_alloy]]
+modId = "tfc"
+mandatory = true
+versionRange = "[3.2.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.copper_iron_alloy]]
+modId = "jei"
+mandatory = false
+versionRange = "[15,)"
+ordering = "NONE"
+side = "CLIENT"

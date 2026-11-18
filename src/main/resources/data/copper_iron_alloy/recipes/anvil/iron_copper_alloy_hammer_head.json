@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/iron_copper_alloy"
+  },
+  "result": {
+    "item": "copper_iron_alloy:iron_copper_alloy_hammer_head"
+  },
+  "tier": 3,
+  "rules": [
+    "upset_last",
+    "punch_second_last",
+    "punch_third_last"
+  ],
+  "apply_forging_bonus": true
+}

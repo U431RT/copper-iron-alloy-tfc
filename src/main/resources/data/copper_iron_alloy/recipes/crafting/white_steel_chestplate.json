@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "copper_iron_alloy:white_steel_sheet"
+    }
+  },
+  "result": {
+    "item": "copper_iron_alloy:white_steel_chestplate"
+  }
+}

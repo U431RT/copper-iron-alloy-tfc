@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": { "layer0": "copper_iron_alloy:item/brittle_white_steel_fishing_rod" },
+  "overrides": [
+    { "predicate": { "tfc:cast": 1 }, "model": "copper_iron_alloy:item/fishing_rod_cast" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tfc:extra_products_shapeless_crafting",
+  "extra_products": [{ "item": "tfc:lamp_glass" }],
+  "recipe": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{ "item": "copper_iron_alloy:brittle_white_steel_lamp" }],
+    "result": { "item": "copper_iron_alloy:brittle_white_steel_unfinished_lamp" }
+  }
+}

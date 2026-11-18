@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:water",
+    "minecraft:flowing_water",
+    "minecraft:lava",
+    "minecraft:flowing_lava",
+    "copper_iron_alloy:metal/iron_copper_alloy",
+    "copper_iron_alloy:metal/flowing_iron_copper_alloy",
+    "copper_iron_alloy:metal/steel_gold",
+    "copper_iron_alloy:metal/flowing_steel_gold",
+    "copper_iron_alloy:metal/brittle_white_steel",
+    "copper_iron_alloy:metal/flowing_brittle_white_steel",
+    "copper_iron_alloy:metal/white_steel",
+    "copper_iron_alloy:metal/flowing_white_steel"
+  ]
+}

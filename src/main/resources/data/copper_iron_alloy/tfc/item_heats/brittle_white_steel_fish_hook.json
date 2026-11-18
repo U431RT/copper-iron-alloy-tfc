@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:brittle_white_steel_fish_hook" },
+  "heat_capacity": 1.72,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

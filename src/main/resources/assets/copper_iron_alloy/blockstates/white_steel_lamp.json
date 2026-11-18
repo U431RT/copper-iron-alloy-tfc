@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "hanging=false,lit=false": { "model": "copper_iron_alloy:block/white_steel_lamp_off" },
+    "hanging=true,lit=false": { "model": "copper_iron_alloy:block/white_steel_lamp_hanging_off" },
+    "hanging=false,lit=true": { "model": "copper_iron_alloy:block/white_steel_lamp_on" },
+    "hanging=true,lit=true": { "model": "copper_iron_alloy:block/white_steel_lamp_hanging_on" }
+  }
+}

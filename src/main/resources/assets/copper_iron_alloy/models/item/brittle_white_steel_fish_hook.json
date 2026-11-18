@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "copper_iron_alloy:item/brittle_white_steel_fish_hook" }
+}

@@ -1,0 +1,15 @@
+{
+  "tier": 4,
+  "fluid": "copper_iron_alloy:metal/steel_gold",
+  "melt_temperature": 1450,
+  "specific_heat_capacity": 0.0086,
+  "ingots": {
+    "tag": "forge:ingots/steel_gold"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/steel_gold"
+  },
+  "sheets": {
+    "tag": "forge:sheets/steel_gold"
+  }
+}

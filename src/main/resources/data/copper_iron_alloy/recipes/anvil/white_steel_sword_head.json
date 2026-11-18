@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/white_steel"
+  },
+  "result": {
+    "item": "copper_iron_alloy:white_steel_sword_head"
+  },
+  "tier": 6,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "bend_third_last"
+  ],
+  "apply_forging_bonus": true
+}

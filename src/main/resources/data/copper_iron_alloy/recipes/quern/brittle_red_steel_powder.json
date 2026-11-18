@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "tfc:metal/ingot/weak_red_steel"
+  },
+  "result": {
+    "item": "copper_iron_alloy:brittle_red_steel_powder",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "tfc:heating",
+  "ingredient": { "item": "copper_iron_alloy:white_steel_sword_head" },
+  "result_fluid": { "fluid": "copper_iron_alloy:metal/white_steel", "amount": 100 },
+  "temperature": 1600
+}

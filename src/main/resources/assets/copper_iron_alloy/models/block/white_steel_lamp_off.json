@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/lamp",
+  "textures": {
+    "metal": "copper_iron_alloy:block/metal/smooth/white_steel",
+    "lamp": "tfc:block/lamp_off"
+  }
+}

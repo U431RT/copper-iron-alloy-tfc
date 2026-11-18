@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:steel_gold_fridge" },
+  "heat_capacity": 27.52,
+  "forging_temperature": 870,
+  "welding_temperature": 1160
+}

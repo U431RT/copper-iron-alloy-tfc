@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:iron_copper_alloy_sword_head" },
+  "heat_capacity": 0.86,
+  "forging_temperature": 660,
+  "welding_temperature": 880
+}

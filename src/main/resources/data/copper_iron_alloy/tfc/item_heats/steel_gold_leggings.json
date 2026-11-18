@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:steel_gold_leggings" },
+  "heat_capacity": 12.04,
+  "forging_temperature": 870,
+  "welding_temperature": 1160
+}

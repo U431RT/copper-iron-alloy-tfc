@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "copper_iron_alloy:iron_copper_alloy_lamp",
+    "copper_iron_alloy:steel_gold_lamp",
+    "copper_iron_alloy:brittle_white_steel_lamp",
+    "copper_iron_alloy:white_steel_lamp"
+  ]
+}

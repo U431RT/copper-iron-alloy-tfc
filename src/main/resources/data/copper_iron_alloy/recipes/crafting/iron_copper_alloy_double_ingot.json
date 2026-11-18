@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copper_iron_alloy:iron_copper_alloy_ingot"
+    },
+    {
+      "item": "copper_iron_alloy:iron_copper_alloy_ingot"
+    }
+  ],
+  "result": {
+    "item": "copper_iron_alloy:iron_copper_alloy_double_ingot"
+  }
+}

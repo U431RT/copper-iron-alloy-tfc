@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:white_steel_knife" },
+  "heat_capacity": 0.86,
+  "forging_temperature": 960,
+  "welding_temperature": 1280
+}

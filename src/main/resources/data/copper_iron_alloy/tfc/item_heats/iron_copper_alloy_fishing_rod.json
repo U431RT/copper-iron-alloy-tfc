@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:iron_copper_alloy_fishing_rod" },
+  "heat_capacity": 1.72,
+  "forging_temperature": 660,
+  "welding_temperature": 880
+}

@@ -1,0 +1,7 @@
+{
+  "type": "tfc:heating",
+  "ingredient": { "item": "copper_iron_alloy:iron_copper_alloy_hoe" },
+  "result_fluid": { "fluid": "copper_iron_alloy:metal/iron_copper_alloy", "amount": 100 },
+  "use_durability": true,
+  "temperature": 1100
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingots/steel_gold"
+  },
+  "second_input": {
+    "tag": "forge:ingots/steel_gold"
+  },
+  "tier": 4,
+  "result": {
+    "item": "copper_iron_alloy:steel_gold_double_ingot"
+  }
+}

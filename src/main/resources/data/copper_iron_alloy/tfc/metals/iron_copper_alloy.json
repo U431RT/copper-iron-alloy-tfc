@@ -1,0 +1,15 @@
+{
+  "tier": 3,
+  "fluid": "copper_iron_alloy:metal/iron_copper_alloy",
+  "melt_temperature": 1100,
+  "specific_heat_capacity": 0.0086,
+  "ingots": {
+    "tag": "forge:ingots/iron_copper_alloy"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/iron_copper_alloy"
+  },
+  "sheets": {
+    "tag": "forge:sheets/iron_copper_alloy"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:brittle_white_steel_helmet" },
+  "heat_capacity": 8.6,
+  "forging_temperature": 900,
+  "welding_temperature": 1200
+}

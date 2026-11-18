@@ -1,0 +1,5 @@
+{
+  "fluid": "minecraft:lava",
+  "burn_rate": -1,
+  "valid_lamps": "copper_iron_alloy:white_steel_lamp"
+}

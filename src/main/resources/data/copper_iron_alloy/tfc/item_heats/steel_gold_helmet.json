@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:steel_gold_helmet" },
+  "heat_capacity": 8.6,
+  "forging_temperature": 870,
+  "welding_temperature": 1160
+}

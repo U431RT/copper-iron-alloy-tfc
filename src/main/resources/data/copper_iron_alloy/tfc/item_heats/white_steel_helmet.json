@@ -1,0 +1,6 @@
+{
+  "ingredient": { "item": "copper_iron_alloy:white_steel_helmet" },
+  "heat_capacity": 8.6,
+  "forging_temperature": 960,
+  "welding_temperature": 1280
+}

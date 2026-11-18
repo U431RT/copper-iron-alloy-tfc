@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "copper_iron_alloy:white_steel_sheet"
+  },
+  "result": {
+    "item": "minecraft:bucket"
+  },
+  "tier": 6,
+  "rules": [
+    "hit_last",
+    "bend_second_last",
+    "draw_third_last"
+  ]
+}
