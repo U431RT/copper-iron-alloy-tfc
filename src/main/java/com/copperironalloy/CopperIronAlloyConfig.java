@@ -10,6 +10,8 @@ public final class CopperIronAlloyConfig {
     public static final ForgeConfigSpec.BooleanValue MAID_MILKING_COOLDOWN;
     public static final ForgeConfigSpec.IntValue MAID_COOLDOWN_TICKS;
     public static final ForgeConfigSpec.ConfigValue<java.util.List<? extends String>> MAID_MODEL_WHITELIST;
+    /** Default false. Alloy containers spill a short flow instead of leaving a source. */
+    public static final ForgeConfigSpec.BooleanValue PLACE_FLUID_SOURCES;
 
     static {
         ForgeConfigSpec.Builder builder = new ForgeConfigSpec.Builder();
@@ -32,6 +34,13 @@ public final class CopperIronAlloyConfig {
                         "Sake fox model id goes here if you want to restrict it.")
                 .defineListAllowEmpty(java.util.List.of("maid_model_whitelist"),
                         java.util.List::of, o -> o instanceof String);
+        builder.pop();
+        builder.push("fluids");
+        PLACE_FLUID_SOURCES = builder.comment(
+                        "Pouring from an alloy bucket or cup places a fluid source block.",
+                        "Off by default: the pour is a short flow that runs off, the same way TerraFirmaCraft empties less than a bucket.",
+                        "A white steel sheet can be forged into a vanilla iron bucket, which still places sources.")
+                .define("place_fluid_sources", false);
         builder.pop();
         SPEC = builder.build();
     }

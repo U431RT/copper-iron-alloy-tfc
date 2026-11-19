@@ -25,6 +25,17 @@ License: MIT-0 (MIT No Attribution)
 - 创意、数值与美术方向：**U431RT**
 - 代码与资源生成：**AI**
 
+## 更新日志 / Changelog
+
+### v1.0.1
+- 修复：合金桶、小杯倒液体不再放置水源/岩浆源，改为短时间流动后消失（与群峦"不足一桶"的处理一致）。
+  新增配置 `fluids.place_fluid_sources`（默认 false），需要放源方块时打开。
+- 新增：白钢薄板可在 tier 6 铁砧上锻造出原版铁桶（原版桶仍能放置水源）。
+- 新增配方：`anvil/white_steel_iron_bucket`。
+
+### v1.0.0
+- 首个版本。
+
 ## 许可证 / License
 
 **MIT-0（MIT No Attribution）** —— 完全放开：可自由使用、修改、再分发、商用，**无需署名**。

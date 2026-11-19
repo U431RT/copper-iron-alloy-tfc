@@ -17,7 +17,6 @@ import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.animal.Cow;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.context.BlockPlaceContext;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.level.ClipContext;
 import net.minecraft.world.level.Level;
@@ -81,8 +80,10 @@ public final class BucketBehavior implements FluidContainerBehavior {
         }
         if (current != null && amount > 0 && !BucketLogic.isMilk(current)) {
             if (!level.isClientSide) {
-                BlockPos target = hit.getBlockPos().relative(hit.getDirection());
-                level.setBlockAndUpdate(target, current.defaultFluidState().createLegacyBlock());
+                BlockPos target = BucketLogic.fluidPos(level, hit.getBlockPos(), hit.getDirection(), current);
+                if (!BucketLogic.placeFluid(level, target, current)) {
+                    return InteractionResultHolder.fail(stack);
+                }
                 BucketContents.set(stack, null, 0);
                 level.playSound(null, target, SoundEvents.BUCKET_EMPTY, SoundSource.PLAYERS, 1.0F, 1.0F);
             }
@@ -107,7 +108,7 @@ public final class BucketBehavior implements FluidContainerBehavior {
                 }
             }
         }
-        if (BucketLogic.pour(level, player, stack, new BlockPlaceContext(ctx))) {
+        if (BucketLogic.pour(level, player, stack, ctx)) {
             return InteractionResult.sidedSuccess(level.isClientSide);
         }
         return InteractionResult.PASS;
